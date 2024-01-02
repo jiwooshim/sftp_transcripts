@@ -1,0 +1,2 @@
+# Run every 6 hours 
+0 */6 * * * /path-to-python /path-to-script/sftp_transcript.py
